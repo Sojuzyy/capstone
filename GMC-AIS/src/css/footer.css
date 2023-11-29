@@ -1,0 +1,37 @@
+html, body {
+    text-decoration: none;
+    color: white;
+}
+
+div.col-sm-3 {
+    padding-top: 1%;
+}
+
+#logo {
+    width: 35%;
+    height: 35%;
+    padding-top: 4%;
+}
+
+#school-name {
+    padding-top: 3%;
+    padding-left: 2%;
+    color: #E5B854;
+}
+
+#footer-bg-color {
+    background-color: #351C13;
+}
+
+.div-indent {
+    padding-top: 3%;
+}
+
+#copyright {
+    padding-bottom: 1%;
+}
+
+ul {
+    text-decoration: none;
+    list-style-type: none;
+}

@@ -1,0 +1,13 @@
+*IMPORTANT NOTE*
+
+
+
+Data folder is purely for database purpose only.
+
+
+It will be divided into 3 categories: model, controller, and service.
+
+
+Model for database creation like tables, and basic data manipulation like inserting, selecting, and updating data.
+Controller for data manipulation especially inserting and getting data from database. As well as deleting data.
+Service is for executing the database: calling data from the table, etc.

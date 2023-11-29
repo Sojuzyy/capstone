@@ -1,0 +1,137 @@
+html, body {
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.parallax {
+    background-image: url("../img/background.png");
+    min-height: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.parallax-content {
+    background-image: url("../img/background.png");
+    min-height: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+#intro-container {
+    background-size: 100%;
+    backdrop-filter: blur(10px);
+    background-color: rgba(225, 225, 225, 0.5);
+    z-index: 2;
+    text-align: center;
+    padding: 1%;
+}
+
+#title {
+    align-items: center;
+    padding-top: 20%;
+    padding-bottom: 1%;
+    font-style: italic;
+    font-weight: 600;
+}
+
+#intro-text {
+    text-align: justify;
+    font-size: larger;
+    text-indent: 3%;
+    padding: 3%;
+}
+
+#logo {
+    width: 35%;
+    height: 35%;
+    padding-bottom: 10%;
+}
+
+h1 {
+    color: #E5B854;
+}
+
+#history-div {
+    height: auto;
+}
+
+#history-title {
+    color: black;
+    background-color: #E5B854;
+    text-align: center;
+    font-style: italic;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#history-content {
+    text-align: justify;
+    font-size: larger;
+    text-indent: 3%;
+    padding: 2%;
+}
+
+#mnv-container {
+    background-size: 100%;
+    backdrop-filter: blur(10px);
+    background-color: rgba(225, 225, 225, 0.5);
+    z-index: 2;
+    text-align: center;
+    padding: 1%;
+}
+
+.mnv {
+    align-items: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.mnv-text {
+    text-align: justify;
+    font-size: larger;
+    text-indent: 3%;
+    padding: 3%;
+}
+
+#cvalues {
+    height: auto;
+    padding-left: 3%;
+    padding-right: 3%;
+    background-color: #E5B854;
+}
+
+.cvalues-container {
+    height: 17%;
+}
+
+#cvalues-title {
+    text-align: center;
+    font-style: italic;
+    font-weight: 600;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.cvalues-subtitle {
+    text-align: justify;
+    font-weight: 600;
+}
+
+h3.cvalues-subtitle>i {
+    color: #351C13;
+    font-weight: 700;
+    font-size: xx-large;
+}
+
+.cvalues-desc {
+    text-indent: 3%;
+    font-size: large;
+}

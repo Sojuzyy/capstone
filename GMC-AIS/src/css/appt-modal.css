@@ -1,0 +1,39 @@
+div.modal {
+    color: white;
+}
+
+div.modal-body {
+    color: white;
+}
+
+/* label {
+    color: white;
+}
+
+label.col-form-label {
+    padding-left: 1%;
+} */
+
+button.gmc-btn {
+    background-color: #E5B854;
+    color: black;
+}
+
+button.gmc-btn:hover {
+    background-color: #351C13;
+    color: white;
+}
+
+a.fs-5 {
+    text-decoration: none;
+}
+
+.subtitle {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+input[type=file] {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}

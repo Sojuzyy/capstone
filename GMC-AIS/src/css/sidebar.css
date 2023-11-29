@@ -1,0 +1,51 @@
+.fa-bars {
+    padding-left: 1.5%;
+    color: white;
+}
+
+button.btn {
+    color: white;
+}
+
+nav {
+    background-color: #351C13;
+    color: white;
+}
+
+ul.nav {
+    margin-left: 18%;
+}
+
+li > a {
+    color: white;
+    text-decoration: none;
+}
+
+a.nav-link {
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a.nav-link:hover {
+    color: #E5B854;
+}
+
+a.nav-link:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.offcanvas {
+    background-color: #351C13;
+    color: white;
+}
+
+.sidebar {
+    width: 20%;
+}
+
+.sidebar-menu {
+    font-size: x-large;
+}

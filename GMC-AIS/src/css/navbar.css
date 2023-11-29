@@ -1,0 +1,52 @@
+.fa-bars {
+    padding-left: 1.5%;
+}
+
+button.btn {
+    color: white;
+}
+
+#brand-logo {
+    width: 3%;
+    height: 3%;
+    margin-left: 1%;
+}
+
+#brand-name {
+    color: #E5B854;;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 2.5%;
+    padding-left: 1%;
+}
+
+nav {
+    background-color: #351C13;
+    color: white;
+}
+
+ul.nav {
+    margin-left: 18%;
+}
+
+li > a {
+    color: white;
+    text-decoration: none;
+}
+
+a.nav-link {
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    /* float: right; */
+}
+
+a.nav-link:hover {
+    color: #E5B854;
+}
+
+a.nav-link:visited {
+    color: white;
+    text-decoration: none;
+}
